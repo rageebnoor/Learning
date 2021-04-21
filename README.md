@@ -2,7 +2,7 @@
 
 So, learning is a significant aspect of a person to grow as a person as well as enhancing skills and ability. So few day earlier, after reading a book called "Ultralearning" by Scott Young, change by whole perspective how we should learn in a very efficent way. So I am started learning from scratch from creating a strong fundamental to finding my weakness. This respository will holds notebooks, codes with explanation which will also include self-explanation as if I will be teaching myself.
 
-##Structure:
+## Structure:
 
 Category: Category will be broder topic. Ex. Statistics, Machine Learning, Data Analysis.
 Sub-Category: Sub-category will be segmented fields of broader category. Ex. Descriptive Statistics, Statistical Machine Learning, Pandas, Numpy
